@@ -39,3 +39,5 @@ Este é um aplicativo interativo desenvolvido com **Streamlit** para análise ex
 
 ## 🎞️ Vídeo no Steramlit
 
+[streamlit-app-2025-03-09-18-03-23.webm](https://github.com/user-attachments/assets/bd6967f1-afc6-459b-b7ac-5a3870bd9d55)
+
