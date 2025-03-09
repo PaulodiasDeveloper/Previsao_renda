@@ -3,8 +3,7 @@ pandas
 numpy
 matplotlib
 seaborn
-ydata-profiling
 scikit-learn
-setuptools
+ydata-profiling==4.5.1
+setuptools>=65.5.0
 wheel
-ydata-profiling==4.6.3
