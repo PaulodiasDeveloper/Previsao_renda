@@ -41,3 +41,6 @@ Este é um aplicativo interativo desenvolvido com **Streamlit** para análise ex
 
 [streamlit-app-2025-03-09-18-03-23.webm](https://github.com/user-attachments/assets/bd6967f1-afc6-459b-b7ac-5a3870bd9d55)
 
+
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/PaulodiasDeveloper/Previsao_renda/blob/main/projeto02.ipynbb)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](https://rhatiro-ebac-projeto02-previsao-renda.streamlit.app/)
